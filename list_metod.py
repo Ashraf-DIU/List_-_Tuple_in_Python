@@ -16,5 +16,8 @@ print(marks)
 marks.insert(1, 700)
 print(marks)
 
-marks.remove(10)
+marks.remove(10) # same as pop
 print(marks)
+
+
+## Search 'Python documantation'
